@@ -1,0 +1,13 @@
+D:\ITransitions\Zadanie3\rps\bin\Debug\netcoreapp3.1\rps.exe
+D:\ITransitions\Zadanie3\rps\bin\Debug\netcoreapp3.1\rps.deps.json
+D:\ITransitions\Zadanie3\rps\bin\Debug\netcoreapp3.1\rps.runtimeconfig.json
+D:\ITransitions\Zadanie3\rps\bin\Debug\netcoreapp3.1\rps.runtimeconfig.dev.json
+D:\ITransitions\Zadanie3\rps\bin\Debug\netcoreapp3.1\rps.dll
+D:\ITransitions\Zadanie3\rps\bin\Debug\netcoreapp3.1\rps.pdb
+D:\ITransitions\Zadanie3\rps\obj\Debug\netcoreapp3.1\rps.csprojAssemblyReference.cache
+D:\ITransitions\Zadanie3\rps\obj\Debug\netcoreapp3.1\rps.AssemblyInfoInputs.cache
+D:\ITransitions\Zadanie3\rps\obj\Debug\netcoreapp3.1\rps.AssemblyInfo.cs
+D:\ITransitions\Zadanie3\rps\obj\Debug\netcoreapp3.1\rps.csproj.CoreCompileInputs.cache
+D:\ITransitions\Zadanie3\rps\obj\Debug\netcoreapp3.1\rps.dll
+D:\ITransitions\Zadanie3\rps\obj\Debug\netcoreapp3.1\rps.pdb
+D:\ITransitions\Zadanie3\rps\obj\Debug\netcoreapp3.1\rps.genruntimeconfig.cache
